@@ -14,23 +14,31 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		P8/og43gg7iZNygx0dFY+LrMBxA=
+		3YTbozVaQH+NOxSiiBgMeetK+SY=
 		</data>
 		<key>Modules/UnumLogger.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		TUP7GwDcHFLwceWiTKELDGVCUbE=
+		LQp6Z7g7TanNSrEHC6oFpBOjH6Q=
 		</data>
 		<key>Modules/UnumLogger.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		B8AqwfzstdEYuoo+ObCAQflWrQQ=
+		QvHJYmBWwKWNR210FJsnWgZar9Q=
+		</data>
+		<key>Modules/UnumLogger.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
+		<data>
+		6DEadGPT8SoUTXjIXXadmsrzl74=
 		</data>
 		<key>Modules/UnumLogger.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		MWArS1VMVx+7ArhPvoc1voFIcxc=
+		PZMt/jYlLTHNNJp/OnXRU27xB9I=
 		</data>
 		<key>Modules/UnumLogger.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		BYFIeDoyd8eBSltaOMJMv9rguJw=
+		VdcQmDmB8uJDdNN0kT9GzV6A7P4=
+		</data>
+		<key>Modules/UnumLogger.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
+		<data>
+		lSLMrIKI/luVj+w469LfVJr6F3c=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -57,28 +65,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			TM0+z9gPffXepkZd2dSfbFHM5Bu+9H0Tv31GrIUwDbU=
+			3Ne2nOrQw9TmizZMoqU7nTcPRspWJ22MLZipzPJMgNA=
 			</data>
 		</dict>
 		<key>Modules/UnumLogger.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			IBOSXUIqLQuleGCnUDcPlC2u6U8LiUBvn7pZlioJWtM=
+			+O9I4PcNiNx3Z/b3AK4jc1Z5yr1jX0p3/JV6HxMYPiw=
+			</data>
+		</dict>
+		<key>Modules/UnumLogger.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			NfsQHyDDN+xRg1yCRbojdpNTLhqeUEHTIJemukk/SkU=
 			</data>
 		</dict>
 		<key>Modules/UnumLogger.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			dQkxu7a2taNhHwPwb8A5ImnjNl7Ib7Sa5xKhrz9rFHk=
+			/Sav+74DYXRG0yffpSwS8jkg6QYKhEiBrjAqqGpvhwE=
 			</data>
 		</dict>
 		<key>Modules/UnumLogger.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			m7Vqy50YWITtt69J8dbNbEZeMxM5fPl868bKzZP/5X0=
+			wvTDHe+RtqtVffoHrFon/t2ntduUR4IBtXJewU+JAZg=
+			</data>
+		</dict>
+		<key>Modules/UnumLogger.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			IynzABAxPfoAbdF5vbtZgznxIfCvkZMIn/TJ01eg9ko=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

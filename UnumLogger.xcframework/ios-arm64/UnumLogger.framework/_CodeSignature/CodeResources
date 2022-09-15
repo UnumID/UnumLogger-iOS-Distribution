@@ -14,15 +14,19 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		a93Z8fqod3JmP7sCZjA3IRqj9hc=
+		7IYP5stI33AFZpXG+orLQvK82v4=
 		</data>
 		<key>Modules/UnumLogger.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		NUZjWpbkbge998kNyJRWyZNPgds=
+		wbbsKLSP9r2X6LYH5FbE/R5g3d8=
 		</data>
 		<key>Modules/UnumLogger.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		j8qPtvO/zXvmIeqKNIXy7Hvmiyk=
+		bJUa2RAV4GsSo1K6+rc3E9+C+pI=
+		</data>
+		<key>Modules/UnumLogger.swiftmodule/arm64-apple-ios.swiftmodule</key>
+		<data>
+		NAUjRzVpaj78LQe0RrtKFv8pFn8=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -49,14 +53,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			oFckuilAljQFx6bH3qx6BfNtYUFdtuIKmry9cQ29628=
+			JIpYBc/VY4Tnx99i5+x4lmwMNKQW47Dw3iR2imCx2AY=
 			</data>
 		</dict>
 		<key>Modules/UnumLogger.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7Uu799AjCf12bOTtQseqluVM2iHEx6a9OTgqismug4U=
+			aEbDpctAG0HIUVKdjYQPtUzrS+B1EYtlwrNwyxvw5cM=
+			</data>
+		</dict>
+		<key>Modules/UnumLogger.swiftmodule/arm64-apple-ios.swiftmodule</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			IWL7yXtfHV4U3clcE+3Po87xubwAppBY1LvCsKae9wE=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
