@@ -22,11 +22,11 @@
 		</data>
 		<key>Modules/UnumLogger.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		QvHJYmBWwKWNR210FJsnWgZar9Q=
+		n7xVej6jvHOdHGQrCBI6W0NOJ+c=
 		</data>
 		<key>Modules/UnumLogger.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		6DEadGPT8SoUTXjIXXadmsrzl74=
+		J8jtUo2FGuP4hCvhDLh1eml0y2I=
 		</data>
 		<key>Modules/UnumLogger.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -34,11 +34,11 @@
 		</data>
 		<key>Modules/UnumLogger.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		VdcQmDmB8uJDdNN0kT9GzV6A7P4=
+		KRz17VCIAaZcsLZ6JQKyb9HXc7s=
 		</data>
 		<key>Modules/UnumLogger.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		lSLMrIKI/luVj+w469LfVJr6F3c=
+		8nVUPv/YTSeYNgGnVKAZX1h6/pg=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -72,14 +72,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			+O9I4PcNiNx3Z/b3AK4jc1Z5yr1jX0p3/JV6HxMYPiw=
+			UrzWiHZ7J47f0AmNOY3OZYCzEvnF+PR3PNE1uDrCEkc=
 			</data>
 		</dict>
 		<key>Modules/UnumLogger.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			NfsQHyDDN+xRg1yCRbojdpNTLhqeUEHTIJemukk/SkU=
+			culnjsKjvZ1IMk69BFXt5yRoh+cp0+jMDeC4lM4LFO4=
 			</data>
 		</dict>
 		<key>Modules/UnumLogger.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -93,14 +93,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			wvTDHe+RtqtVffoHrFon/t2ntduUR4IBtXJewU+JAZg=
+			3tAPWBmSD0ISFIJ9Hg9VPLKgXNUOPkeVgNnP+gmo6KU=
 			</data>
 		</dict>
 		<key>Modules/UnumLogger.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			IynzABAxPfoAbdF5vbtZgznxIfCvkZMIn/TJ01eg9ko=
+			5pg2bqecWziVOI9q9hKgd2rgT2QPV5E7ZjBGJU3ADjo=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

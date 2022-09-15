@@ -6,6 +6,7 @@ import MessageUI
 import Swift
 import UIKit
 @_exported import UnumLogger
+import Zip
 import _Concurrency
 @_hasMissingDesignatedInitializers final public class Logger {
   final public var maxFileSize: Swift.UInt64
